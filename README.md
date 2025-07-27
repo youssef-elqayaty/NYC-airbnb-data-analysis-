@@ -69,6 +69,6 @@ Feel free to fork the repository, give feedback, or suggest improvements!
 ## 👤 Author
 
 Youssef Elqayaty – *Aspiring Data Analyst*  
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/youssef-elqayaty-25a220239)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-elqayaty-25a220239/)
 
 
